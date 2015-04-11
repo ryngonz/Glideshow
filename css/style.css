@@ -1,0 +1,19 @@
+/* RESET */
+.glideshow{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+.glideshow-container{
+	position:relative;
+	overflow: hidden;
+}
+
+.glideshow-content{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	top:0px;
+	z-index: 5;
+}
